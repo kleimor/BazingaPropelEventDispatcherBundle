@@ -1,5 +1,5 @@
 {
-    "name": "marcj/propel-eventdispatcher-bundle",
+    "name": "kleimor/propel-eventdispatcher-bundle",
     "description": "Integrates the Propel EventDispatcherBehavior into Symfony2.",
     "license": "MIT",
     "require": {
